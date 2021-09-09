@@ -21,6 +21,7 @@
     "opciones": {
       "a": "Te levantás y caminás lentamente hacia atrás.",
       "b": "Te levantás y salís corriendo."
+
     }
   },
   {
@@ -44,7 +45,7 @@
     "historia": "Paras de correr y al darte vuelta con algo de miedo ves que lo que te perseguía se detiene, te quedas sin palabras al ver que es un oso gigante con la cara de una señora muy maquillada que te dice; -Si querés llorar, llora pero estás en un sueño mi amor.",
     "opciones": {
       "a": "Me río en la cara del oso-señora.",
-      "b": "Me pongo a bailar."
+      "b": "Me pongo a bailar"
     }
   },
   {
@@ -59,10 +60,12 @@
     "id": "5a",
     "historia": "Te empezas a reir como nunca, y de una forma bastante molesta la verdad. El oso-señora se cansa de vos y te da una sólida bofetada en la cara con su brazo de 60kg que te tuerce el cuello y te despierta instantáneamente. FIN.",
     "opciones": { "a": "FIN.", "b": "FIN." }
+    
   },
   {
     "id": "5b",
     "historia": "Por alguna razón decidís ponerte a bailar, el oso-señora no entiende porqué, los animales del bosque no entienden porqué, yo que escribo esto no entiendo porqué, nadie entiende porqué. El oso-señora se cansa de tu bailecito y te da una sólida bofetada en la cara con su brazo de 60kg que te tuerce el cuello y te despierta instantáneamente. FIN.",
     "opciones": { "a": "FIN", "b": "FIN" }
+    
   }
 ]
